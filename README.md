@@ -1,5 +1,5 @@
 # Shinka Mori
-Hello!
+*Hello!*
 This is Shinka Mori's website
 
 *This website was made on December 5, 2017*
