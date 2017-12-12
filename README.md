@@ -10,7 +10,7 @@ This is Shinka Mori's website
 
 # Courses taken:
 | Course name   | Year          | School
-| ------------- |:-------------:| ---------------------:|
+| :-----------: |:-------------:| ---------------------:|
 | CS 125        | 2017          | University of Illinois
 | MATH 461      | 2017          | University of Illinois
 | LING 210      | 2017          | University of Illinois
