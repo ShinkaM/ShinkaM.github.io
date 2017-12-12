@@ -18,6 +18,12 @@ This is Shinka Mori's website
 | APMA 1650     | 2017          | Brown University      |
 | CHEM 0330     | 2016          | Brown University      |
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 <table>
 <colgroup>
 <col width="30%" />
