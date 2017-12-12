@@ -8,9 +8,9 @@ This is Shinka Mori's website
 ## Class of 2021
 ### Major: Computer Science + Linguistics
 
-# Classes taken:
+# Courses taken:
 | Course name   | Year          | School
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| ---------------------:|
 | CS 125        | 2017          | University of Illinois
 | MATH 461      | 2017          | University of Illinois
 | LING 210      | 2017          | University of Illinois
