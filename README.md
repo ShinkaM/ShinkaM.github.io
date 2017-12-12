@@ -10,13 +10,13 @@ This is Shinka Mori's website
 
 # Courses taken:
 | Course name   | Year          | School                |
-| :-----------: |:-------------:| ---------------------:|
+| ----------- |-------------| ---------------------|
 | CS 125        | 2017          | University of Illinois|
 | MATH 461      | 2017          | University of Illinois|
 | LING 210      | 2017          | University of Illinois|
 | LING 100      | 2017          | University of Illinois|
-| APMA 1650     | 2017          | Brown University      |
-| CHEM 0330     | 2016          | Brown University      |
+| APMA 1650 ( MATH 461 )    | 2017          | Brown University      |
+| CHEM 0330 ( CHEM 2-- )    | 2016          | Brown University      |
 
 | Course name | Year | School |
 |-------|--------|---------|
