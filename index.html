@@ -1,129 +1,18 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
-
 <head>
-<title> 
-Shinka Mori
-</title>
+<script type="text/javascript"
+src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+<script type="text/javascript"
+src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+<script type="text/javascript"
+src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 </head>
-
-
 <body>
-<body style = "background-color:#cedbbc">
-<h1> <center>
-Shinka Mori
-</center> </h1>
-<img src="my_pic.JPG" style="width:200px;height:300px;">
-<p style = "font-size:18px;color:black;align=center;"> <b> Hello. This is my homepage. I am a freshman at the University of Illinois at Urbana - Champaign.
-  My major is CS + Linguistics.</b> </p>
 
-
-<p> 
-I was born in Nagasaki, Japan, and have since then moved to Tokyo, Pennsylvania, Ohio, North Carolina, Rhode Island, and now, Illinois!
-
-</p>
-
-  
-<p style = "color:#3a4f23"> <b>
-I am currently reading: </b>
-</p>
-<table>
-<colgroup>
-<col width="20%" />
-<col width="30%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Book Title name</th>
-<th> Author</th>
-<th> Comments </th>  
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">The Decipherment of Linear B</td>
-<td markdown="span">John Chadwick</td>
-<td markdown="span">I am reading this to write a paper for LING 210.  It describes the process of Linear B's decipherment in great detail.</td>
-</tr>
-<tr>
-<td markdown="span">Madame Butterfly</td>
-<td markdown="span">Giacomo Puccini</td>
-<td markdown="span">This book/play takes place in my hometown, Nagasaki! It is one of Puccini's most known operas.</td>
-</tr>
-<tr>
-<td markdown="span">Confessions of a Mask</td>
-<td markdown="span">Yukio Mishima</td>
-<td markdown="span">I'm reading this in Japanese. It may take me a while to finish this because I am busy with finals!</td>
-</tr>
-<tr>
-</tbody>
-</table>
-
-
-<p style = "color:#3a4f23"> <b>
-Academics: </b>
-</p>
-<table>
-<colgroup>
-<col width="30%" />
-<col width="60%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Course name</th>
-<th> School</th>
-<th> Year </th>  
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">CS 125</td>
-<td markdown="span">University of Illinois at Urbana-Champaign</td>
-<td markdown="span">2017</td>
-</tr>
-<tr>
-<td markdown="span">MATH 241</td>
-<td markdown="span">University of Illinois at Urbana-Champaign</td>
-<td markdown="span">2017</td>
-</tr>
-<tr>
-<td markdown="span">LING 100</td>
-<td markdown="span">University of Illinois at Urbana-Champaign</td>
-<td markdown="span">2017</td>  
-</tr>
-<tr><td markdown="span">LING 210</td>
-<td markdown="span">University of Illinois at Urbana-Champaign</td>
-<td markdown="span">2017</td>
-</tr>
-<tr>
-<tr><td markdown="span">APMA 1650(MATH 361)</td>
-<td markdown="span">Brown University</td>
-<td markdown="span">2017</td>
-</tr>
-<tr>
-<tr><td markdown="span">CHEM 0330(CHEM 2--)</td>
-<td markdown="span">Brown University</td>
-<td markdown="span">2016</td>
-</tr>
-<tr>
-</tbody>
-</table>
-</p>
-<p style = "color:#3a4f23"> <b>
-Languages: </b>
-<p>
-<ul>
-<li>  Japanese: My first language.  I have taught Japanese as a Teacher's Assistant at East Chapel Hill High School.</li>
-<li>English: My second language.  I have experience in tutoring English to Japanese speakers.</li>
-<ul>
-  
-<p>
-<p style = "color:#4B0082"> <b>
-Email: shinkam2@illinois.edu<br>
-<a href="https://github.com/ShinkaM">GitHub</a>
-
-</b>  
-
-</p>
-
+<div id="viz1"></div>
+<script>
+vegaEmbed("#viz1", "./final_plot.json");
+</script>
+</body>
 </html>
